@@ -8,3 +8,8 @@ Syntax:
 unpack.py xxxxxxx.vfs
 
 GUI coming soon.
+
+Based on:
+Research from http://mor.gstrategy.ru/files/
+http://wiki.xentax.com/index.php/Pathologic_VFS
+
