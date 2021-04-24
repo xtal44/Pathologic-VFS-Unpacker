@@ -5,7 +5,7 @@ Command Line Arguments:
 -h - get help
 fname - specify VFS filename.
 Syntax: 
-unpack.py xxxxxxx.vfs
+python unpack.py xxxxxxx.vfs
 
 GUI coming soon.
 
